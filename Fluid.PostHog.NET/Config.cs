@@ -27,7 +27,7 @@ namespace PostHog
 
         private static string GetDefaultUserAgent()
         {
-            return $"PostHog.NET/{Constants.VERSION}";
+            return $"Fluid.PostHog.NET/{Constants.VERSION}";
         }
 
         public int FlushAt { get; set; }

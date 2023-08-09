@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostHog.NET", "Posthog.NET\PostHog.NET.csproj", "{89277FEF-E179-4C7B-BA6F-62B04A1C59FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fluid.PostHog.NET", "Fluid.Posthog.NET\Fluid.PostHog.NET.csproj", "{89277FEF-E179-4C7B-BA6F-62B04A1C59FC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{2EB8F5F5-306D-48F3-8125-AEDF2D34CEC0}"
 EndProject
